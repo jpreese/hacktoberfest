@@ -1,6 +1,6 @@
 # Hacktoberfest
 
-![](images/hacktoberfest.jpg)
+![Hacktoberfest Logo](images/hacktoberfest.jpg)
 
 ## What is this all about?
 
@@ -13,28 +13,33 @@ Contribute enough, and you can be the proud owner of a Hacktoberfest T-Shirt and
 ## Why bother?
 
 ### Build relationships with passionate individuals
+
 The majority of open source projects are built and maintained by individuals who do it because they're passionate about it. More often than not they are estatic to have help, and will welcome any efforts you put towards their project.
 
 These connections last, and can greatly help you in your career.
 
-_Reference:_ https://twitter.com/johnpreese/status/1182294225024700417
+_Reference:_ <https://twitter.com/johnpreese/status/1182294225024700417>
 
 ### Exposure to a wide variety of problems
+
 Open source is a lot like the wild west. Projects are written in different languages, have different workflows, and approaches to solving problems. If you've always been curious about a specific language or technology, there's an open source project for that!
 
 _Reference:_ .. I think we're good on this one.
 
 ### Have a voice for how software is made
+
 With the software we use being out in the open, you have the power to recommend approaches and suggest changes. If your software does not do everything you want it to, add an issue to the repository, or better yet add a pull request.
 
 _Reference:_ [ACR Docker Labels](https://github.com/Azure/acr/issues/247)
 
 ### Fix issues sooner and avoid hacks
+
 Often times the software we depend on has bugs, and we have to work around them in one way or another. Instead of implementing a workaround, you have the power to fix the root cause! This is not only a cleaner solution, but we're not the only ones who are (or will) experience the problem.
 
 _Reference:_ [Azure KeyVault SOPS Support](https://github.com/mozilla/sops/pull/502)
 
 ### There's something for everyone
+
 GitHub hosts more than just software. Many of the supporting documentation also lives in GitHub. You don't have to be a programmer to contribute!
 
 _Reference:_ [Kubernetes Casing](https://github.com/kubernetes/website/pull/15968)
@@ -43,7 +48,7 @@ _Reference:_ [Kubernetes Casing](https://github.com/kubernetes/website/pull/1596
 
 ### It's just Git
 
-Azure DevOps. GitLab. BitBucket. They're all just facilitate ways of interacting with **git**. If you're familiar with git, picking up these software suites are just a matter of learning the UI. 
+Azure DevOps. GitLab. BitBucket. They're all just facilitate ways of interacting with **git**. If you're familiar with git, picking up these software suites are just a matter of learning the UI.
 
 Concepts such as: commit, pull request, and *fork* should be what you would expect.
 
@@ -53,7 +58,7 @@ If you're working on your own code, you probably don't need to fork. But in the 
 
 Forking enables you to work on your own local copy of the source, and only push the parts of the code that you touched. Otherwise, you'd have to pollute the [upstream](https://stackoverflow.com/questions/2739376/definition-of-downstream-and-upstream) with branches and create unnecessary noise.
 
-_Reference:_ https://help.github.com/en/articles/fork-a-repo
+_Reference:_ <https://help.github.com/en/articles/fork-a-repo>
 
 ## The fun stuff
 
@@ -68,15 +73,17 @@ _Reference:_ https://help.github.com/en/articles/fork-a-repo
 ### GO FORTH! AND CONQUER! *(aka contribute)*
 
 Source
-- https://github.com/mungell/awesome-for-beginners
+
+- <https://github.com/mungell/awesome-for-beginners>
 
 Examples
-- https://github.com/mattermost/mattermost-server/issues
-- https://github.com/pingcap/tidb/issues/12058
 
-* Is Markdown more your jam? [Microsoft would love your contributions](https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/).
+- <https://github.com/mattermost/mattermost-server/issues>
+- <https://github.com/pingcap/tidb/issues/12058>
 
-* Want to just dive into something? [Contribute a drink recipe](https://github.com/alfg/opendrinks) or just add a [funny joke](https://github.com/shrutikapoor08/devjoke).
+- Is Markdown more your jam? [Microsoft would love your contributions](https://docs.microsoft.com/en-us/dotnet/csharp/getting-started/).
+
+- Want to just dive into something? [Contribute a drink recipe](https://github.com/alfg/opendrinks) or just add a [funny joke](https://github.com/shrutikapoor08/devjoke).
 
 ## Looking for more?
 
