@@ -46,6 +46,8 @@ Forking enables you to work on your own local copy of the source, and only push 
 - https://github.com/mungell/awesome-for-beginners
 - https://github.com/mattermost/mattermost-server/issues
 
+* Alternatively, [make your own emoji!](https://kimberrypi.github.io/emojidiv/)
+
 
 ## Looking for more?
 
