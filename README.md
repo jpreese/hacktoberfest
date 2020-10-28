@@ -1,6 +1,6 @@
 # Hacktoberfest
 
-![Hacktoberfest Logo](images/hacktoberfest.jpg)
+![Hacktoberfest Logo](images/hacktoberfest20.jpg)
 
 ## What is this all about?
 
